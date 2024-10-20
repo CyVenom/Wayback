@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCyVenom%2FWayback&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # Wayback URLs Fetcher
 
 A simple Python script to fetch archived URLs from the Wayback Machine for a given domain. This tool allows you to gather historical URLs and subdomains for web applications, aiding in research, security assessments, and web scraping.
