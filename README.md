@@ -22,3 +22,28 @@ You can install the required library using pip:
 
 ```bash
 pip install requests
+```
+
+## Usage
+
+-python3 waybackurls.py <url> [include_subdomains]
+
+## Example output 1
+
+-python3 waybackurls.py https://example.com
+
+[*] Found 3 URLs:
+http://example.com/page1
+http://example.com/page2
+http://example.com/about
+
+## Example 2
+
+-python3 waybackurls.py https://example.com include_subdomains
+
+[*] Found 5 URLs:
+http://example.com/page1
+http://blog.example.com/article1
+http://shop.example.com/item1
+http://example.com/page2
+http://example.com/about
