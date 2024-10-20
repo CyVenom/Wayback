@@ -26,11 +26,11 @@ pip install requests
 
 ## Usage
 
--python3 waybackurls.py <url> [include_subdomains]
+-python waybackurls.py <url> [include_subdomains]
 
 ## Example output 1
 
--python3 waybackurls.py https://example.com
+-python waybackurls.py https://example.com
 
 [*] Found 3 URLs:
 http://example.com/page1
@@ -39,7 +39,7 @@ http://example.com/about
 
 ## Example 2
 
--python3 waybackurls.py https://example.com include_subdomains
+-python waybackurls.py https://example.com include_subdomains
 
 [*] Found 5 URLs:
 http://example.com/page1
