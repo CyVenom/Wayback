@@ -28,7 +28,7 @@ pip install requests
 
 -python waybackurls.py <url> [include_subdomains]
 
-## Example output 1
+## Example 1
 
 -python waybackurls.py https://example.com
 
